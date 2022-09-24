@@ -89,6 +89,7 @@ def get_scatter_plot(entered_site, range_selection):
         x = 'Payload Mass (kg)', 
         y = 'class', 
         color="Booster Version Category",
+        range_x=[range_selection[0], range_selection[1]],
         title='Correlation between Payload and Success for All Sites')
         return fig
     else:
