@@ -24,6 +24,7 @@ In this module, you will collect data on the Falcon 9 first-stage landings. You 
 ---
 
 # Week 3 - Interactive Visual Analysis and Dashboard
+In this module, you will build a dashboard to analyze launch records interactively with Plotly Dash. You will then build an interactive map to analyze the launch site proximity with Folium.
 
 ## Learning Objectives
 * Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library
